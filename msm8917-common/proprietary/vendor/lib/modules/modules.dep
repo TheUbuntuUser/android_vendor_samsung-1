@@ -1,0 +1,10 @@
+/vendor/lib/modules/test-iosched.ko:
+/vendor/lib/modules/tcp_westwood.ko:
+/vendor/lib/modules/rdbg.ko:
+/vendor/lib/modules/bluetooth-power.ko:
+/vendor/lib/modules/mmc_block_test.ko: /vendor/lib/modules/test-iosched.ko
+/vendor/lib/modules/mmc_test.ko:
+/vendor/lib/modules/tcp_htcp.ko:
+/vendor/lib/modules/spidev.ko:
+/vendor/lib/modules/evbug.ko:
+/vendor/lib/modules/ansi_cprng.ko:
